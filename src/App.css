@@ -44,7 +44,7 @@ button {
 .singleTodo {
   border-radius: 50px;
   margin: 10px 0;
-  background-color: #5dadf8;
+  background-color: gray;
   padding: 10px 20px;
   display: flex;
   width: 450px;
